@@ -1,6 +1,6 @@
 ---
 title: "WSL2 を使った開発環境構築のまとめ"
-emoji: "💭"
+emoji: "💻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Windows", "WSL2"]
 published: false
