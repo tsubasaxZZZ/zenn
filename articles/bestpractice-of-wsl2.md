@@ -2,7 +2,7 @@
 title: "WSL2 で最強の開発環境を作る"
 emoji: "💻"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["Windows", "WSL2"]
+topics: ["Windows", "WSL2", "Docker"]
 published: true
 ---
 
